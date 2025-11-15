@@ -1,0 +1,8 @@
+site_name: Marimo PyData
+site_description: Interactive Python data visualizations with Marimo
+
+theme:
+  name: readthedocs
+
+nav:
+  - Home: index.md
